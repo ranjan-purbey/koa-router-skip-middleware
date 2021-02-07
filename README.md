@@ -47,7 +47,7 @@ Add routes
 const handler = (ctx) => {
   ctx.body = {
     date: new Date(),
-    message: ctx.state.myMiddleware,
+    message: ctx.state.myMessage,
   };
 };
 
