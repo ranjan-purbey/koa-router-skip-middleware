@@ -1,3 +1,6 @@
 node_modules/
 lib/
 yarn-error.log
+.github/
+.gitignore
+tsconfig.json
